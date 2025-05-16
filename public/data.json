@@ -4,23 +4,23 @@
     "questions": [
       {
         "id": 1,
-        "question": "This ninja wears orange and dreams of being Hokage."
+        "question": "<img src='images/Anime/Anime_100.png' style=\"max-width: 300px;\"><br>This ninja wears orange and dreams of being Hokage."
       },
       {
         "id": 2,
-        "question": "All I ever wanted was to go to the moon."
+        "question": "<img src='images/Anime/Anime_200.png' style=\"max-width: 300px;\"><br>All I ever wanted was to go to the moon."
       },
       {
         "id": 3,
-        "question": "She wears a red bow and delivers packages by broom."
+        "question": "<img src='images/Anime/Anime_300.png' style=\"max-width: 300px;\"><br>She wears a red bow and delivers packages by broom."
       },
       {
         "id": 4,
-        "question": "I’ve lived for over a thousand years. I’m not in a rush."
+        "question": "<img src='images/Anime/Anime_400.png' style=\"max-width: 300px;\"><br>I’ve lived for over a thousand years. I’m not in a rush."
       },
       {
         "id": 5,
-        "question": "I’m Chihiro! I’m not Sen!"
+        "question": "<img src='images/Anime/Anime_500.png' style=\"max-width: 300px;\"><br>I’m Chihiro! I’m not Sen!"
       }
     ]
   },
@@ -29,7 +29,7 @@
     "questions": [
       {
         "id": 1,
-        "question": "What character has an outfit with a red and blue school uniform with a giant red bow on the chest."
+        "question": "<img src='images/Outfits/Outfits_100.png' style=\"max-width: 300px;\"><br>What character has an outfit with a red and blue school uniform with a giant red bow on the chest."
       },
       {
         "id": 2,
@@ -54,11 +54,11 @@
     "questions": [
       {
         "id": 1,
-        "question": "This iconic red-and-white item is used to store and transport creatures in battles across regions."
+        "question": "<img src='images/Props/Props_100.png' style=\"max-width: 300px;\"><br>This iconic red-and-white item is used to store and transport creatures in battles across regions."
       },
       {
         "id": 2,
-        "question": "This seemingly ordinary notebook can end lives if names are written inside."
+        "question": "<img src='images/Props/Props_200.png' style=\"max-width: 300px;\"><br>This seemingly ordinary notebook can end lives if names are written inside."
       },
       {
         "id": 3,
@@ -83,11 +83,11 @@
       },
       {
         "id": 2,
-        "question": "What cosplay equipment is the brand Singer most famous for making?"
+        "question": "<img src='images/Materials/Materials_200.png' style=\"max-width: 300px;\"><br>What cosplay equipment is the brand Singer most famous for making?"
       },
       {
         "id": 3,
-        "question": "This popular thermoplastic brand is favored by cosplayers for making armor and props, becoming moldable when heated."
+        "question": "<img src='images/Materials/Materials_300.png' style=\"max-width: 300px;\"><br>This popular thermoplastic brand is favored by cosplayers for making armor and props, becoming moldable when heated."
       },
       {
         "id": 4,
@@ -104,23 +104,23 @@
     "questions": [
       {
         "id": 1,
-        "question": "This area is where artists sell prints, charms, and fan-made merch."
+        "question": "<img src='images/Conventions/Conventions_100.png' style=\"max-width: 300px;\"><br>This area is where artists sell prints, charms, and fan-made merch."
       },
       {
         "id": 2,
-        "question": "You’ll need this item to enter panels, the show floor, or special events."
+        "question": "<img src='images/Conventions/Conventions_200.png' style=\"max-width: 300px;\"><br>You’ll need this item to enter panels, the show floor, or special events."
       },
       {
         "id": 3,
-        "question": "What is one of the least fun conventions due to its over popularity and crowdedness?"
+        "question": "<img src='images/Conventions/Conventions_300.png' style=\"max-width: 300px;\"><br>What is one of the least fun conventions due to its over popularity and crowdedness?"
       },
       {
         "id": 4,
-        "question": "This late-night, often 18+ event at conventions features DJs, dancing, and glowsticks."
+        "question": "<img src='images/Conventions/Conventions_400.png' style=\"max-width: 300px;\"><br>This late-night, often 18+ event at conventions features DJs, dancing, and glowsticks."
       },
       {
         "id": 5,
-        "question": "This slang term refers to the time after a con when you feel tired, sad, or sick. Typically due to having to return to normal life."
+        "question": "<img src='images/Conventions/Conventions_500.png' style=\"max-width: 300px;\"><br>This slang term refers to the time after a con when you feel tired, sad, or sick. Typically due to having to return to normal life."
       }
     ]
   },
@@ -133,7 +133,7 @@
       },
       {
         "id": 2,
-        "question": "Who's that pokemon? When exposed to the moon's aura, the rings on its body glow faintly and it gains a mysterious power."
+        "question": "<img src='images/Likes/Likes_200.png' style=\"max-width: 300px;\"><br>Who's that pokemon? When exposed to the moon's aura, the rings on its body glow faintly and it gains a mysterious power."
       },
       {
         "id": 3,
