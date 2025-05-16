@@ -1,0 +1,152 @@
+[
+  {
+    "category": "Name the Anime",
+    "questions": [
+      {
+        "id": 1,
+        "question": "This ninja wears orange and dreams of being Hokage."
+      },
+      {
+        "id": 2,
+        "question": "All I ever wanted was to go to the moon."
+      },
+      {
+        "id": 3,
+        "question": "She wears a red bow and delivers packages by broom."
+      },
+      {
+        "id": 4,
+        "question": "I’ve lived for over a thousand years. I’m not in a rush."
+      },
+      {
+        "id": 5,
+        "question": "I’m Chihiro! I’m not Sen!"
+      }
+    ]
+  },
+  {
+    "category": "Outfits (name the character)",
+    "questions": [
+      {
+        "id": 1,
+        "question": "What character has an outfit with a red and blue school uniform with a giant red bow on the chest."
+      },
+      {
+        "id": 2,
+        "question": "<img src='images/Outfits/Outfits_200.png' style=\"max-width: 300px;\"><br>What famous book series are these robes from?"
+      },
+      {
+        "id": 3,
+        "question": "<img src='images/Outfits/Outfits_300.png' style=\"max-width: 300px;\"><br>What character is being cosplayed here?"
+      },
+      {
+        "id": 4,
+        "question": "<img src='images/Outfits/Outfits_400.png' style=\"max-width: 300px;\"><br>What is she wearing?"
+      },
+      {
+        "id": 5,
+        "question": "<img src='images/Outfits/Outfits_500.png' style=\"max-width: 300px;\"><br>This singer dazzels with her custom Victoria's Secret corset bodysuits adorned with crystals, layered with babydoll nightgowns and paired with garters and go-go boots, embracing a playful, retro-feminine aesthetic."
+      }
+    ]
+  },
+  {
+    "category": "Props and Gear",
+    "questions": [
+      {
+        "id": 1,
+        "question": "This iconic red-and-white item is used to store and transport creatures in battles across regions."
+      },
+      {
+        "id": 2,
+        "question": "This seemingly ordinary notebook can end lives if names are written inside."
+      },
+      {
+        "id": 3,
+        "question": "<img src='images/Props/Props_300.png' style=\"max-width: 300px;\"><br>This oversized sword, known as the Buster Sword, belongs to which spiky-haired mercenary?"
+      },
+      {
+        "id": 4,
+        "question": "<img src='images/Props/Props_400.png' style=\"max-width: 300px;\"><br>This mask, worn by a faceless spirit, becomes increasingly monstrous as it consumes more."
+      },
+      {
+        "id": 5,
+        "question": "<img src='images/Props/Props_500.png' style=\"max-width: 300px;\"><br>This neural implant allows characters in Night City to slow time and dodge bullets."
+      }
+    ]
+  },
+  {
+    "category": "Cosplay Materials",
+    "questions": [
+      {
+        "id": 1,
+        "question": "<img src='images/Materials/Materials_100.png' style=\"max-width: 300px;\"><br>What is this?"
+      },
+      {
+        "id": 2,
+        "question": "What cosplay equipment is the brand Singer most famous for making?"
+      },
+      {
+        "id": 3,
+        "question": "This popular thermoplastic brand is favored by cosplayers for making armor and props, becoming moldable when heated."
+      },
+      {
+        "id": 4,
+        "question": "<img src='images/Materials/Materials_400.png' style=\"max-width: 300px;\"><br>What are these?"
+      },
+      {
+        "id": 5,
+        "question": "<img src='images/Materials/Materials_500.png' style=\"max-width: 300px;\"><br>What is this?"
+      } 
+    ]
+  },
+  {
+    "category": "Convention Life",
+    "questions": [
+      {
+        "id": 1,
+        "question": "This area is where artists sell prints, charms, and fan-made merch."
+      },
+      {
+        "id": 2,
+        "question": "You’ll need this item to enter panels, the show floor, or special events."
+      },
+      {
+        "id": 3,
+        "question": "What is one of the least fun conventions due to its over popularity and crowdedness?"
+      },
+      {
+        "id": 4,
+        "question": "This late-night, often 18+ event at conventions features DJs, dancing, and glowsticks."
+      },
+      {
+        "id": 5,
+        "question": "This slang term refers to the time after a con when you feel tired, sad, or sick. Typically due to having to return to normal life."
+      }
+    ]
+  },
+  {
+    "category": "Things Sydney Likes",
+    "questions": [
+      {
+        "id": 1,
+        "question": "<img src='images/Likes/Likes_100.png' style=\"max-width: 300px;\"><br>What is this image from?"
+      },
+      {
+        "id": 2,
+        "question": "Who's that pokemon? When exposed to the moon's aura, the rings on its body glow faintly and it gains a mysterious power."
+      },
+      {
+        "id": 3,
+        "question": "<img src='images/Likes/Likes_300.png' style=\"max-width: 300px;\"><br>What are these called?"
+      },
+      {
+        "id": 4,
+        "question": "<img src='images/Likes/Likes_400.png' style=\"max-width: 300px;\"><br>What game is this character from?"
+      },
+      {
+        "id": 5,
+        "question": "<img src='images/Likes/Likes_500.png' style=\"max-width: 300px;\"><br>What Movie are these characters from?"
+      }
+    ]
+  }
+]
